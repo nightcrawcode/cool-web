@@ -1,5 +1,5 @@
-# cool-web
+# cool-web project!
 
-This is my first thing i made here on github!
-feel free to do what ever you want with it!
-It makes me happy
+you might think what is the *"cool-web project"*
+it is a product made by Protogencool to help him learn how to use github!
+over all it is just a webpage
